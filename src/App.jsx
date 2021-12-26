@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      <button onClick={() => arrSet()}>click me</button>
+      <button onClick={() => arrSet()}>click me </button>
     </div>
   );
 }
